@@ -1,0 +1,3 @@
+<launch>
+  <node name="acquisition_node" pkg="spinnaker_wrapper" type="acquisition_node" respawn="true" />
+</launch>
