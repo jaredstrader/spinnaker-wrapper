@@ -1,2 +1,2 @@
 # spinnaker-wrapper
-ROS Package for Wrapping Spinnaker SDK
+Simple ROS Package for Wrapping Spinnaker SDK
